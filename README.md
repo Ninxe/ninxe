@@ -1,31 +1,17 @@
 <h1>Hiya, I'm Luís Correia 👋</h1>
-Web Developer since 2019.
 
-<p>
-  <a href="https://ninxe.co" target="_blank">
-    <img alt="ninxe.co" src="https://img.shields.io/badge/Website-ninxe.co-brightgreen" />
-  </a>
-  <img alt="ninxe" src="https://komarev.com/ghpvc/?username=ninxe&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
+> Web Developer since 2019.
+
+[![website](https://img.shields.io/badge/Website-ninxe.co-brightgreen)](https://ninxe.co/)
+![](https://komarev.com/ghpvc/?username=ninxe&label=Profile%20views&color=0e75b6&style=flat)
 
 <h3>Connect with me</h3>
-<p>
-  <a href="https://twitter.com/Ninxeh" target="_blank">
-    <img alt="twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat-square&logo=Twitter&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/ninxeh" target="_blank">
-    <img alt="instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white" />
-  </a>
-  <a href="https://youtube.com/Ninxe" target="_blank">
-    <img alt="youtube" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat-square&logo=YouTube&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/ninxe" target="_blank">
-    <img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://dev.to/Ninxe" target="_blank">
-    <img alt="dev" src="https://img.shields.io/badge/DEV-0A0A0A?style=flat-square&logo=dev.to&logoColor=white" />
-  </a>
-</p>
+
+[![twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/Ninxeh)
+[![instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/ninxeh)
+[![youtube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat-square&logo=YouTube&logoColor=white)](https://youtube.com/Ninxe)
+[![linkedin](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ninxe)
+[![dev](https://img.shields.io/badge/DEV-0A0A0A?style=flat-square&logo=dev.to&logoColor=white)](https://dev.to/Ninxe)
 
 <h3>Technologies I code with</h3>
 <p>
@@ -52,8 +38,5 @@ Web Developer since 2019.
 </p>
 
 <h3>Support</h3>
-<p>
-  <a href="https://ko-fi.com/Ninxe">
-    <img alt="Ninxe" src="https://img.shields.io/badge/Ko--fi-F16061?style=flat-square&logo=ko-fi&logoColor=white" />
-  </a>
-</p>
+
+[![kofi](https://img.shields.io/badge/Ko--fi-F16061?style=flat-square&logo=ko-fi&logoColor=white)](https://ko-fi.com/Ninxe)
