@@ -7,8 +7,7 @@
 
 <h3>Connect with me</h3>
 
-[![twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/Ninxeh)
-[![instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/ninxeh)
+[![linktree](https://img.shields.io/badge/Linktree-%44E760.svg?style=flat-square&logo=Linktree&logoColor=white)](https://linktr.ee/Ninxe)
 [![youtube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat-square&logo=YouTube&logoColor=white)](https://youtube.com/Ninxe)
 [![linkedin](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ninxe)
 [![dev](https://img.shields.io/badge/DEV-0A0A0A?style=flat-square&logo=dev.to&logoColor=white)](https://dev.to/Ninxe)
